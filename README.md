@@ -34,7 +34,7 @@ Built using:
 ## 🌐 Deployment
 
 This website is deployed via **Cloudflare Pages**  
-🔗 URL: [https://student-resume.pages.dev](https://student-resume.pages.dev)
+🔗 Live Demo: [https://student-resume-9n8.pages.dev](https://student-resume-9n8.pages.dev)
 
 ---
 
